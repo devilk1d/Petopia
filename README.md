@@ -1,9 +1,9 @@
 # petopia
 
 Kelompok 7
-Rizqi Asan Masika (2307413003)
-Aufa Kautsar Ahmad (2307413014) 
-Ibnu Dwito Abimanyu (2307413019) 
+- Rizqi Asan Masika (2307413003)
+- Aufa Kautsar Ahmad (2307413014) 
+- Ibnu Dwito Abimanyu (2307413019) 
 
 ## Getting Started
 
